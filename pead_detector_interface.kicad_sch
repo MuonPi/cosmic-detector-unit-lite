@@ -375,7 +375,6 @@
     )
   )
 
-
   (junction (at 91.44 67.31) (diameter 1.016) (color 0 0 0 0))
   (junction (at 182.88 68.58) (diameter 1.016) (color 0 0 0 0))
 
@@ -398,6 +397,10 @@
   (wire (pts (xy 102.87 67.31) (xy 114.3 67.31))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 56d31f5b-0736-41dd-9606-3e2f18fef0aa)
+  )
+  (wire (pts (xy 111.76 55.88) (xy 111.76 57.15))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 4bc6a08a-cfa9-4ee5-bb70-7d3a86eea37c)
   )
   (wire (pts (xy 114.3 55.88) (xy 114.3 67.31))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -462,6 +465,10 @@
   (wire (pts (xy 182.88 68.58) (xy 187.96 68.58))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid d97d7298-e454-4eaa-be2f-25de28eecb34)
+  )
+  (wire (pts (xy 182.88 80.01) (xy 182.88 81.28))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 4b97ccdb-1bd0-4668-8b66-5d7865dcde4a)
   )
 
   (global_label "INP1_BUFFER" (shape input) (at 85.09 67.31 180)

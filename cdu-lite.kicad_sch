@@ -396,6 +396,15 @@
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/ad5caac5-0ab8-4a19-9025-1720a5de279d"
       (reference "#PWR0193") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/45bafe35-19a9-460a-a80a-e9440964aa71"
+      (reference "#PWR0194") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/65d8ba42-9e11-4127-b8d6-bc648c709913"
+      (reference "#PWR0195") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/a94c1540-d390-4891-8533-70fac8d6d2b6"
+      (reference "#PWR0196") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/92d5702b-4a81-4da9-bd35-9ff46181d32c"
       (reference "C100") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -669,9 +678,6 @@
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/1b8d6a50-da8f-4187-99f7-3bf2f3848473"
       (reference "R503") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/252b0764-b2cd-4467-a575-ee8a1b2601a7"
-      (reference "R504") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/babf8b96-9f0a-4639-8d47-09bcb2838b0e"
       (reference "R504") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -692,6 +698,9 @@
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/cf2cdc6e-f171-4f33-8f21-f0c85fe86d52"
       (reference "R512") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/252b0764-b2cd-4467-a575-ee8a1b2601a7"
+      (reference "R516") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9f8ac3e1-b100-49d8-9e5d-9d820ebec141/e36d5418-6684-43d4-8a06-fdcb92ccfa2e"
       (reference "R600") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
