@@ -547,13 +547,13 @@
       (reference "JP301") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/bebad59c-1259-4aba-a160-196020fba7a9/ab33f55b-48fc-4e8b-a6ec-40b79ec27e9b"
-      (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+      (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
     )
     (path "/9f8ac3e1-b100-49d8-9e5d-9d820ebec141/62ca1b5d-26d8-4c84-8ed5-8a168e5fdf6e"
-      (reference "JP601") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "JP601") (unit 1) (value "Conn_01x03") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/9f8ac3e1-b100-49d8-9e5d-9d820ebec141/807157c6-a5f0-4dd1-90d2-a45efeb1abd3"
-      (reference "JP602") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+      (reference "JP602") (unit 1) (value "Conn_01x05") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/6b79b163-ca85-453b-a484-e9c332334935"
       (reference "L100") (unit 1) (value "1u") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -856,7 +856,7 @@
       (reference "U404") (unit 1) (value "PCA9536D n.b.") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/466a0232-9d41-4dc7-a2db-474bb5492dfb"
-      (reference "U405") (unit 1) (value "CAT24C32WI-GT3 n.b.") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm ")
+      (reference "U405") (unit 1) (value "CAT24C32WI-GT3 n.b.") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/1d598e60-a32a-4fab-ae3d-22744cc213b1"
       (reference "U501") (unit 1) (value "MCP6L02x-xSN") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")

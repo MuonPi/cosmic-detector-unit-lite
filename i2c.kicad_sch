@@ -2270,7 +2270,7 @@
     (uuid 466a0232-9d41-4dc7-a2db-474bb5492dfb)
     (property "Reference" "U405" (id 0) (at 220.98 65.3796 0))
     (property "Value" "CAT24C32WI-GT3 n.b." (id 1) (at 215.9 67.691 0))
-    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm " (id 2) (at 226.06 76.2 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 226.06 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 226.06 76.2 0)
