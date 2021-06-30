@@ -435,6 +435,12 @@
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/4660b576-ecce-486a-a24f-8148b5cac324"
       (reference "#PWR0206") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/f75f2ef1-27b3-4e2a-aa71-37b2aad7f485"
+      (reference "#PWR0207") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/15389e6d-6e3c-49cd-90c1-1a95f63acf13"
+      (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/92d5702b-4a81-4da9-bd35-9ff46181d32c"
       (reference "C100") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -807,14 +813,8 @@
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/914ccb0d-d544-4983-bd87-60ccc297c6df"
       (reference "TP701") (unit 1) (value "GPS_RXD") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
-    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/c95dac55-fe3e-4243-a15e-9c97c546f55e"
-      (reference "U2") (unit 1) (value "TLV3502AID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
-    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/984ef371-2b17-478b-bad0-60252539a227"
-      (reference "U2") (unit 2) (value "TLV3502AID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
-    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/aafe3e07-9932-4c1b-82eb-e685b84bca1b"
-      (reference "U2") (unit 3) (value "TLV3502AID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/98668424-58aa-4ce1-a3b0-93adb7c34018"
+      (reference "U2") (unit 1) (value "TLV3501AID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/d6f8bf5d-881e-4f55-b914-45181041048f"
       (reference "U100") (unit 1) (value "LMH6550MAX_NOPE") (footprint "muonpi-kicad-library:SOIC-8_3.9x4.9mm_P1.27mm")
