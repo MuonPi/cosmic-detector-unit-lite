@@ -435,11 +435,11 @@
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/4660b576-ecce-486a-a24f-8148b5cac324"
       (reference "#PWR0206") (unit 1) (value "VCC") (footprint "")
     )
-    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/f75f2ef1-27b3-4e2a-aa71-37b2aad7f485"
-      (reference "#PWR0207") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/15389e6d-6e3c-49cd-90c1-1a95f63acf13"
       (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/edaf354e-c3d0-4534-bb56-c32041d5fef3"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/92d5702b-4a81-4da9-bd35-9ff46181d32c"
       (reference "C100") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -546,6 +546,18 @@
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/9a378556-a2cb-49a5-baa1-19bd518321b7"
       (reference "D500") (unit 1) (value "MBRA160T3G") (footprint "Diode_SMD:D_SMA")
     )
+    (path "/bebad59c-1259-4aba-a160-196020fba7a9/d7bfaa75-30a8-4c1f-b231-d5bcd6d1bb98"
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
+    )
+    (path "/bebad59c-1259-4aba-a160-196020fba7a9/9661c99a-0e9d-4824-8c55-99db1f1fb0e7"
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
+    )
+    (path "/bebad59c-1259-4aba-a160-196020fba7a9/40738fad-64bf-423f-a90d-2b36f6ac72f0"
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
+    )
+    (path "/bebad59c-1259-4aba-a160-196020fba7a9/bb808ab0-34f4-468a-8cbf-dda7e112b735"
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
+    )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/d2047b3b-3da3-4268-9858-96985c49131d"
       (reference "J700") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
@@ -554,6 +566,27 @@
     )
     (path "/bebad59c-1259-4aba-a160-196020fba7a9/ab33f55b-48fc-4e8b-a6ec-40b79ec27e9b"
       (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/17791aef-febe-4646-93ca-514387a95c23"
+      (reference "JP500") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/d317f5c2-d1b1-4c2b-aa17-182a823a7fc0"
+      (reference "JP501") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/e6e1a924-358d-4fdd-99f8-3d115f18a930"
+      (reference "JP502") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/5561fe7d-3cc8-416f-8b04-9c5f08c712b4"
+      (reference "JP503") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/f9d4a25d-2804-4bd3-ad5e-1ea670f2952e"
+      (reference "JP504") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/ce938615-19c9-4455-b466-58869ed58a94"
+      (reference "JP505") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
+    (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/c6628aa5-b49c-4268-ac87-ebe463107db7"
+      (reference "JP506") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
     )
     (path "/9f8ac3e1-b100-49d8-9e5d-9d820ebec141/62ca1b5d-26d8-4c84-8ed5-8a168e5fdf6e"
       (reference "JP601") (unit 1) (value "Conn_01x03") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
@@ -877,13 +910,13 @@
       (reference "U700") (unit 1) (value "NEO-6P") (footprint "muonpi-kicad-library:ublox_NEO")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/ac8bcd5b-d3e0-44ae-a4f3-5c6d6e0414ae"
-      (reference "X1") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
+      (reference "X1") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/0f44edef-5ab4-49cb-983b-e0b67665d099"
-      (reference "X5") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
+      (reference "X5") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined")
     )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/e21fb79f-d736-48be-a449-b7e9ea6753df"
-      (reference "X7") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
+      (reference "X7") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined")
     )
   )
 )

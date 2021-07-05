@@ -1089,7 +1089,7 @@
     (property "Value" "Conn_Coaxial" (id 1) (at 179.0701 82.9246 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "muonpi-kicad-library:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" (id 2) (at 176.53 80.01 0)
+    (property "Footprint" "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined" (id 2) (at 176.53 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 176.53 80.01 0)
