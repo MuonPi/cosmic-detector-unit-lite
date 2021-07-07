@@ -1,0 +1,34 @@
+#!/bin/sh -e
+
+echo "This script will update the library submodule."
+
+cd library
+if [ ! -z "$(git status --porcelain)" ]; then
+    echo "There are uncommitted changes, are you sure the remote is up to date? Local changes will be lost."
+    
+    while true; do
+        read -r -p "Are you sure? [y/N/r] " input
+
+        case $input in
+        [yY][eE][sS]|[yY])
+            echo "Continuing."
+            break
+        ;;
+        [rR])
+            echo "Reviewing."
+            git diff
+        ;;
+        *)
+            echo "Aborting."
+            exit 1
+        ;;
+        esac
+    done
+fi
+
+git reset --hard
+git pull origin main
+cd ..
+git add library
+git commit -m "Updated library reference"
+git push
