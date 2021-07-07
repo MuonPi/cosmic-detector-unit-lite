@@ -380,7 +380,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "TIMEPULSE" (shape input) (at 104.14 125.73 180)
+  (global_label "TIMEPULSE_LED" (shape input) (at 104.14 125.73 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 61b29086-6321-4ee7-9da1-97cb94892725)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 90.0429 125.6506 0)
