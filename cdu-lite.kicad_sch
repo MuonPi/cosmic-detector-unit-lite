@@ -510,14 +510,11 @@
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/d4f99f6e-e78c-420a-b49a-f855b5da9e6f"
       (reference "J100") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm")
     )
-    (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/39dfa838-c1e5-44c0-99a7-094d239c1724"
-      (reference "J310") (unit 1) (value "Jumper_NC_Small") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/4c4bc4cd-d900-4443-ad40-9594132b4a9c"
+      (reference "J300") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
-    (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/95903622-d0b5-4e6a-a70d-17d946f8cab8"
-      (reference "J311") (unit 1) (value "Jumper_NO_Small") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/22b33e84-eae7-45fa-abc5-1ac5c7095dff"
-      (reference "J312") (unit 1) (value "Jumper_NO_Small") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/1901780f-79f1-44b9-adb0-bae3140e40d9"
+      (reference "J310") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
     )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/d2047b3b-3da3-4268-9858-96985c49131d"
       (reference "J700") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -749,9 +746,6 @@
     )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/6baaafba-7b1e-4c44-9454-4c5a51e5b88c"
       (reference "R706") (unit 1) (value "51R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/4c4bc4cd-d900-4443-ad40-9594132b4a9c"
-      (reference "SJ300") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/afc312d0-86d7-4d4c-a839-7a185dee987d"
       (reference "TP11") (unit 1) (value "Pulse") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
