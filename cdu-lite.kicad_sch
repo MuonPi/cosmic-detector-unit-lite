@@ -616,7 +616,7 @@
       (reference "LED409") (unit 1) (value "TimeP") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/d17605b2-5057-4531-9c94-0926e528b1ad"
-      (reference "P400") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "P400") (unit 1) (value "Conn_01x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/9c346d20-3214-4058-8a33-405b693b44bd"
       (reference "Q501") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -779,6 +779,12 @@
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/cd9423b2-5a11-4d70-b60c-4dd8443aa67d"
       (reference "TP401") (unit 1) (value "SDA") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/d165d41e-4faa-4dac-99cb-fcbc78b8744a"
+      (reference "TP402") (unit 1) (value "VOUTTB") (footprint "muonpi-kicad-library:TestPoint_Pad_D0.6mm")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/df132d67-3902-4896-9bde-564a789013e9"
+      (reference "TP403") (unit 1) (value "VOUTD") (footprint "muonpi-kicad-library:TestPoint_Pad_D0.6mm")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/02e2f207-f46b-4e5e-97ba-c3380507fe61"
       (reference "TP502") (unit 1) (value "FAULT1") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
