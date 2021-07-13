@@ -27,6 +27,7 @@ if [ ! -z "$(git status --porcelain)" ]; then
 fi
 
 git reset --hard
+git clean -f -d
 git pull origin main
 cd ..
 git add library
