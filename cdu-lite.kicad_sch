@@ -765,6 +765,9 @@
     (path "/9f8ac3e1-b100-49d8-9e5d-9d820ebec141/69c4c8c5-cee4-478a-9860-30d49e16fa03"
       (reference "TP17") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
+    (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/c669a232-6b4c-4cea-bf1d-77682c0f1ef4"
+      (reference "TP18") (unit 1) (value "Preamp supply") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
+    )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/a755419c-fa86-4bff-8fbc-3f0e71d7b56f"
       (reference "TP26") (unit 1) (value "DISR1.1") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
@@ -790,7 +793,7 @@
       (reference "TP502") (unit 1) (value "FAULT1") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/751deacc-f64b-49c7-9904-24584c6e171e"
-      (reference "TP503") (unit 1) (value "Preamp_Supply") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
+      (reference "TP503") (unit 1) (value "BIAS_Supply") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/bce5456a-15d2-4a5c-8f2b-48b809676102"
       (reference "TP504") (unit 1) (value "+5V") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")

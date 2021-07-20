@@ -862,9 +862,19 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1c65067a-05fd-45bc-882d-01c517075580)
   )
+  (text "2 Variants\n\na.) with the possibility to add a Peakdetector: as shown in the schematics\nU300A extends the pulse to 100ns. Used as a reset signal for the Peakdetector. This is than extended to 1us\nused as a event signal to the raspberry pi.\n\n\nb.) without Peak Detector:\nU300A extends the pulse to 1us used as a event signal to the raspberry pi. \n \nremove U301, R303, C303\nremove R600, R601, C600, C601, JP601, JP602\n\nreplace C300 33p with 1n\n\nsolder Jumper J300 is connected\n\n"
+    (at 120.65 49.53 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a2ea2911-dd88-4a80-b858-3707585cb1c4)
+  )
   (text "tau=1us" (at 226.06 64.77 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 58898a60-9e9b-4802-8950-51c5d099248d)
+  )
+  (text "EVT_XOR refers to the two detector version of the circuit. \nEVT_XOR and EVT_AND are possible signals there. \nFor reasons of backward compatibility, the naming of\nthe net is the same here."
+    (at 247.65 96.52 0)
+    (effects (font (size 0.762 0.762)) (justify left bottom))
+    (uuid 57a83400-b104-4966-9e4d-f5916aef92bd)
   )
 
   (global_label "COMP1" (shape input) (at 54.61 59.69 180)
