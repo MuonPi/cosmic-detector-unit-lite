@@ -373,7 +373,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "BIAS_EN_N" (shape input) (at 104.14 113.03 180)
+  (global_label "BIAS_EN_N_LED" (shape input) (at 104.14 113.03 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 4e839326-8b52-4ca8-8136-39fcb97edba1)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 90.2848 112.9506 0)

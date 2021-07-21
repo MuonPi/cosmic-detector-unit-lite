@@ -1050,7 +1050,7 @@
     (uuid ab33f55b-48fc-4e8b-a6ec-40b79ec27e9b)
     (property "Reference" "JP400" (id 0) (at 165.1 56.4896 0))
     (property "Value" "Raspberry_Pi_2_3" (id 1) (at 170.18 58.7945 0))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical" (id 2) (at 154.94 91.44 0)
+    (property "Footprint" "Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical" (id 2) (at 154.94 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf" (id 3) (at 154.94 91.44 0)

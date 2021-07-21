@@ -192,6 +192,15 @@
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/46954a92-7073-427f-84dd-cd7a7b98d0d1"
       (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
     )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/6dee3d1c-2615-4f66-bc80-3dfff22ef98d"
+      (reference "#PWR0126") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/119e42fd-d200-412b-bc19-ecf8263cf588"
+      (reference "#PWR0127") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/3f6ecffe-6c5f-4cf3-bdda-da4ec9fa5c48"
+      (reference "#PWR0128") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/a49a941c-c4be-463e-9326-1398183d0aee"
       (reference "#PWR0129") (unit 1) (value "GND") (footprint "")
     )
@@ -200,6 +209,9 @@
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/26ffd9f5-abd4-4387-bdbd-4b0410b38686"
       (reference "#PWR0131") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/635f4bd1-6468-4456-a3da-685762aabfdd"
+      (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/8419f2a6-0887-439e-a544-193ceaaecea9"
       (reference "#PWR0133") (unit 1) (value "VCC") (footprint "")
@@ -516,6 +528,15 @@
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/1901780f-79f1-44b9-adb0-bae3140e40d9"
       (reference "J310") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
     )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/f8135acc-ecdf-4ebf-958a-a9b8f4aab8ce"
+      (reference "J401") (unit 1) (value "Conn_01x10_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/3931c49b-0f14-4db8-aaac-127f0bb3ce96"
+      (reference "J402") (unit 1) (value "Conn_01x05_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
+    )
+    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/ada26030-569f-40a9-9481-f947d6ae87e4"
+      (reference "J403") (unit 1) (value "Conn_01x05_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
+    )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/d2047b3b-3da3-4268-9858-96985c49131d"
       (reference "J700") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
@@ -526,7 +547,7 @@
       (reference "JP102") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
     )
     (path "/bebad59c-1259-4aba-a160-196020fba7a9/ab33f55b-48fc-4e8b-a6ec-40b79ec27e9b"
-      (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
+      (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/17791aef-febe-4646-93ca-514387a95c23"
       (reference "JP500") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
@@ -782,12 +803,6 @@
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/cd9423b2-5a11-4d70-b60c-4dd8443aa67d"
       (reference "TP401") (unit 1) (value "SDA") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
-    )
-    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/d165d41e-4faa-4dac-99cb-fcbc78b8744a"
-      (reference "TP402") (unit 1) (value "VOUTTB") (footprint "muonpi-kicad-library:TestPoint_Pad_D0.6mm")
-    )
-    (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/df132d67-3902-4896-9bde-564a789013e9"
-      (reference "TP403") (unit 1) (value "VOUTD") (footprint "muonpi-kicad-library:TestPoint_Pad_D0.6mm")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/02e2f207-f46b-4e5e-97ba-c3380507fe61"
       (reference "TP502") (unit 1) (value "FAULT1") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
