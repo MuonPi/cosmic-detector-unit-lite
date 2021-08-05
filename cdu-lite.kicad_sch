@@ -636,6 +636,24 @@
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/27acb697-9502-4044-9060-8ee7e053232a"
       (reference "LED409") (unit 1) (value "TimeP") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
+    (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/53b395f1-25bb-4a37-9852-658f64d7368a"
+      (reference "LED411") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/41f79ffd-1357-465c-ba4b-01814559c4dd"
+      (reference "LED412") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/9cea94dd-98c4-4323-ad04-48479e36d9a0"
+      (reference "LED413") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/af4b7451-ff66-4dfe-be7c-8bb1544af793"
+      (reference "LED415") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/fa71dd1a-5ac0-47de-adac-4a3b686fc563"
+      (reference "LED418") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/f6778852-c28e-497f-9371-6d2fc1fcb2f2"
+      (reference "LED419") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
+    )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/d17605b2-5057-4531-9c94-0926e528b1ad"
       (reference "P400") (unit 1) (value "Conn_01x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )

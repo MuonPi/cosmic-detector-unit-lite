@@ -393,7 +393,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../cosmic-detector-unit-lite-3d/cdu-lite.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
