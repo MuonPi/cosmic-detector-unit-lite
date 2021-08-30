@@ -607,7 +607,7 @@
       (reference "JP705") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/6b79b163-ca85-453b-a484-e9c332334935"
-      (reference "L100") (unit 1) (value "1u") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "L100") (unit 1) (value "1uH") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/153658e6-0464-49b7-8f27-59978af94f32"
       (reference "L500") (unit 1) (value "10uH") (footprint "Inductor_SMD:L_1812_4532Metric_Pad1.30x3.40mm_HandSolder")
@@ -619,22 +619,22 @@
       (reference "L700") (unit 1) (value "27nH") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/e3c63b51-e8a9-4a44-b1df-2af6422906fe"
-      (reference "LED401") (unit 1) (value "+5V") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "LED401") (unit 1) (value "+5V (yellow)") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/3dd40433-65b8-4069-aa55-83c0b37251d2"
-      (reference "LED402") (unit 1) (value "VCC") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "LED402") (unit 1) (value "VCC (yellow)") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/da600f9d-b996-4429-bf3b-a94dfcc2ae5e"
-      (reference "LED403") (unit 1) (value "CH1") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "LED403") (unit 1) (value "CH1 (blue)") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/a3b080b0-38c7-4cf5-b46d-247363a868dd"
-      (reference "LED405") (unit 1) (value "St1") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "LED405") (unit 1) (value "St1 (green)") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/39ffb39b-0b7c-41c1-bb93-e706fd9a832c"
-      (reference "LED408") (unit 1) (value "BiasEn") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "LED408") (unit 1) (value "BiasEn (red)") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/27acb697-9502-4044-9060-8ee7e053232a"
-      (reference "LED409") (unit 1) (value "TimeP") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "LED409") (unit 1) (value "TimeP (white)") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/97e52a6a-0602-4ae8-8338-d43b9bee25fe/53b395f1-25bb-4a37-9852-658f64d7368a"
       (reference "LED411") (unit 1) (value "n.b. optional") (footprint "LED_THT:LED_D3.0mm")
@@ -847,22 +847,22 @@
       (reference "U100") (unit 1) (value "LMH6550MAX_NOPE") (footprint "muonpi-kicad-library:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/aa8b5545-747c-40db-90e1-ecb7e9d2c64b"
-      (reference "U300") (unit 1) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
+      (reference "U300") (unit 1) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/0a4c4d95-8eb1-4af6-842c-289f32b290c8"
-      (reference "U300") (unit 2) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
+      (reference "U300") (unit 2) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/2e0bc792-8174-4119-84cb-7552100e48f6"
-      (reference "U300") (unit 3) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
+      (reference "U300") (unit 3) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/df75c8f0-a5d9-4240-9dd4-85f404e10534"
-      (reference "U301") (unit 1) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
+      (reference "U301") (unit 1) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/e29283a6-42e6-4586-afb1-9afcfc967355"
-      (reference "U301") (unit 2) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
+      (reference "U301") (unit 2) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/86fc1718-66d2-4106-87ff-fbc3c5168b27"
-      (reference "U301") (unit 3) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
+      (reference "U301") (unit 3) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/36464a50-a194-4d08-aee6-be1da9d2e7bb/d37b6334-b2b9-457a-b151-731617830274"
       (reference "U400") (unit 1) (value "24AA02UIDT-IOT") (footprint "Package_TO_SOT_SMD:SOT-23-5")
