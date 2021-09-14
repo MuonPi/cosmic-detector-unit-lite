@@ -203,7 +203,7 @@
       (net 86 "BIAS_EN_N_LED") (pinfunction "K") (pintype "passive") (tstamp e4e9b14f-803e-4ff4-89c2-9c4af1e4e942))
     (pad "2" thru_hole circle locked (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 66 "Net-(LED408-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7dc8e8f5-5b9d-43d5-9131-87beb3460a9a))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -860,7 +860,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 6682ce59-4070-443d-8bb7-5d471c4cd4e7))
     (pad "2" thru_hole circle locked (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 48 "Net-(LED403-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 2675199e-2a54-460c-8ccd-c3eadf701499))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2181,7 +2181,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 4484a82a-c485-4255-af90-19c80b2df3d6))
     (pad "2" thru_hole circle locked (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 46 "Net-(LED401-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1eedb619-9a30-4087-a3f5-8cb32da44082))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2940,7 +2940,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 6ef82128-be10-42bd-8124-7475b76b74e2))
     (pad "2" thru_hole circle locked (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 47 "Net-(LED402-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0d08752c-9b18-43ae-b585-92cc5f58e8ea))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3449,7 +3449,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp d19fa0f9-f39d-48aa-9a58-68c709647001))
     (pad "2" thru_hole circle locked (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 49 "Net-(LED405-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 232880d2-2cf9-45c8-968e-7252f42bb460))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5698,7 +5698,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 009ba1ba-055d-45a3-b3c1-5a65e6cad8ed))
     (pad "2" thru_hole circle locked (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 50 "Net-(LED409-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9d8d652d-f0ea-4d80-811d-816fc9796d9d))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7731,7 +7731,7 @@
   (gr_text "DISCR1.1" (at 94.2848 78.613) (layer "F.SilkS") (tstamp 0bf5f36a-82ed-41b7-b2a9-29168d0f01b6)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (gr_text "CDUlite v3.0  07/2021  hgz/oe5hcl" (at 68.7578 60.4266) (layer "F.SilkS") (tstamp 13fbc01d-1986-4c39-8eb9-d97598cb1831)
+  (gr_text "CDUlite v3.0.b  09/2021  hgz/oe5hcl" (at 68.7578 60.4266) (layer "F.SilkS") (tstamp 13fbc01d-1986-4c39-8eb9-d97598cb1831)
     (effects (font (size 1 1) (thickness 0.25)))
   )
   (gr_text "Status" (at 148.6154 60.8584 90) (layer "F.SilkS") (tstamp 3c8a95cf-70a2-4296-84f2-a2370dd311f7)
