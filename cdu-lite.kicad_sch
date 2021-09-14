@@ -793,10 +793,10 @@
       (reference "TP13") (unit 1) (value "Impuls_Discr") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/14ac9fec-a234-46bd-990b-2eeb878a015d"
-      (reference "TP14") (unit 1) (value "Pulse Amplified") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
+      (reference "TP14") (unit 1) (value "Pulse Amplified Inverted") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/ecc703fe-b554-4ce0-83cb-d15d4896d22a"
-      (reference "TP15") (unit 1) (value "Pulse Amplified inverted") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
+      (reference "TP15") (unit 1) (value "Pulse Amplified") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/8ccdd5a6-30ab-4d44-b348-1d6e05f51a7a"
       (reference "TP16") (unit 1) (value "THR_Voltage") (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
