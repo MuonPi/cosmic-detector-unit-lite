@@ -1268,7 +1268,7 @@
       (reference "JP102") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
     )
     (path "/3d85a63b-4127-4343-a91e-94644da6362f/ab33f55b-48fc-4e8b-a6ec-40b79ec27e9b"
-      (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
+      (reference "JP400") (unit 1) (value "Raspberry_Pi_2_3") (footprint "muonpi-kicad-library:PinSocket_2x20_P2.54mm_Vertical")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/17791aef-febe-4646-93ca-514387a95c23"
       (reference "JP500") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")

@@ -358,8 +358,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "muonpi-kicad-library"
+    ],
+    "pinned_symbol_libs": [
+      "muonpi-kicad-library"
+    ]
   },
   "meta": {
     "filename": "cdu-lite.kicad_pro",

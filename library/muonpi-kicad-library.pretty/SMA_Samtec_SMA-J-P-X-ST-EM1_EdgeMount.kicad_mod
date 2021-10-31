@@ -1,5 +1,5 @@
-(footprint "SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 5DAA3454)
+(footprint "SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" (version 20211014) (generator pcbnew) (layer "F.Cu")
+  (tedit 617EF3F8)
   (descr "Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)")
   (tags "SMA Straight Samtec Edge Mount")
   (attr smd)
@@ -62,9 +62,9 @@
   (pad "2" smd rect (at -2.825 0) (size 1.35 4.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 7d168ba0-83b2-4c79-9bab-3dfef4a99696))
   (pad "2" smd rect (at 2.825 0) (size 1.35 4.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 8fb89dad-44a0-43c9-ad8a-0583622a3bf5))
   (pad "2" smd rect (at -2.825 0) (size 1.35 4.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f73576cb-ec6d-4eda-8a5f-4105153a6da9))
-  (model "${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/library/3dmodels/Connector_Coaxial_SMA_edge_clear.step"
+    (offset (xyz 0 -2.5 -0.75))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 90 -180 -180))
   )
 )
