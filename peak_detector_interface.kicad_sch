@@ -1,4 +1,4 @@
-(kicad_sch (version 20210621) (generator eeschema)
+(kicad_sch (version 20211123) (generator eeschema)
 
   (uuid a38e5cbd-15b6-4aee-afb6-df7907fc6ef7)
 
@@ -469,8 +469,12 @@
     )
   )
 
-  (junction (at 182.88 68.58) (diameter 1.016) (color 0 0 0 0))
-  (junction (at 91.44 67.31) (diameter 1.016) (color 0 0 0 0))
+  (junction (at 91.44 67.31) (diameter 1.016) (color 0 0 0 0)
+    (uuid 167e0dc3-f820-4d48-81fb-4e2a58476c04)
+  )
+  (junction (at 182.88 68.58) (diameter 1.016) (color 0 0 0 0)
+    (uuid 2d1e82de-24cd-4f1a-ad1f-20dda2d54b43)
+  )
 
   (wire (pts (xy 182.88 63.5) (xy 182.88 68.58))
     (stroke (width 0) (type solid) (color 0 0 0 0))
