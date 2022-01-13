@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name "muonpi-kicad-library")(type "KiCad")(uri "${KIPRJMOD}/library/muonpi-kicad-library.pretty")(options "")(descr ""))
 )

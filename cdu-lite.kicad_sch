@@ -850,7 +850,7 @@
       (reference "U2") (unit 1) (value "TLV3501AID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/d6f8bf5d-881e-4f55-b914-45181041048f"
-      (reference "U100") (unit 1) (value "LMH6550MAX_NOPE") (footprint "muonpi-kicad-library:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U100") (unit 1) (value "LMH6550MAX_NOPE") (footprint "muonpi:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/d50a82de-a2de-48b0-a2b2-515b0a2a9279/aa8b5545-747c-40db-90e1-ecb7e9d2c64b"
       (reference "U300") (unit 1) (value "SN74LV221AD") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
@@ -898,16 +898,16 @@
       (reference "U503") (unit 1) (value "TPS22944DCKR") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
     )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/3c3e3e74-e906-47c6-a566-8b6ba470f3e6"
-      (reference "U700") (unit 1) (value "NEO-6P") (footprint "muonpi-kicad-library:ublox_NEO")
+      (reference "U700") (unit 1) (value "NEO-6P") (footprint "muonpi:ublox_NEO")
     )
     (path "/7a5c0435-564a-45ea-90e2-b6091fc2a727/ac8bcd5b-d3e0-44ae-a4f3-5c6d6e0414ae"
-      (reference "X1") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined")
+      (reference "X1") (unit 1) (value "Conn_Coaxial") (footprint "muonpi:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
     )
     (path "/5c483b37-d6fb-4cf2-aeef-e24193143e80/0f44edef-5ab4-49cb-983b-e0b67665d099"
-      (reference "X5") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined")
+      (reference "X5") (unit 1) (value "Conn_Coaxial") (footprint "muonpi:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
     )
     (path "/3a6416b1-f669-47a4-a316-91bab8dbeabd/e21fb79f-d736-48be-a449-b7e9ea6753df"
-      (reference "X7") (unit 1) (value "Conn_Coaxial") (footprint "muonpi-kicad-library:Connector_Coaxial_SMA_edge_combined")
+      (reference "X7") (unit 1) (value "Conn_Coaxial") (footprint "muonpi:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
     )
   )
 )
